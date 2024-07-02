@@ -10,6 +10,6 @@ I am passionate about programming, with a particular interest in front-end devel
  - **React**,
  - **SQL**,
  - **Testing in Java (Selenium, Cucmber)**,
-##  🌱 I’m currently learning...
-Node.js, Typescript, Next.js, Angular 
+##  🌱 Now focus on:
+ - Node.js
 
