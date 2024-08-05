@@ -1,20 +1,6 @@
 
 # 🚀 Hi, I'm Marcin! 👋
-#
 Welcome to my GitHub profile! 
-Here, you'll find a collection of my projects, experiments, and contributions to the open-source community. 
-I'm passionate about coding, learning new technologies, and sharing my knowledge with others.
-
-## 🛠 Skills: 
- - **HTML**, 
- - **CSS** (**SCSS**, **Talwind-Css**, **Styled-Components**, **Bootstrap**,**Framer Motion**),      
- - **Javascript**, 
- - **React**,
- - **SQL**,
- - **Testing in Java (Selenium, Cucmber)**,
-   
-##  🌱 Now focus on:
- - Node.js
 
 ## If you'd like to contribute to any of my projects, please follow these steps:
 
